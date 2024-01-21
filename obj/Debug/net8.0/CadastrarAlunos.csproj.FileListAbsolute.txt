@@ -1,0 +1,14 @@
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.AssemblyInfoInputs.cache
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.AssemblyInfo.cs
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.csproj.CoreCompileInputs.cache
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\bin\Debug\net8.0\CadastrarAlunos.exe
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\bin\Debug\net8.0\CadastrarAlunos.deps.json
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\bin\Debug\net8.0\CadastrarAlunos.runtimeconfig.json
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\bin\Debug\net8.0\CadastrarAlunos.dll
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\bin\Debug\net8.0\CadastrarAlunos.pdb
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.dll
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\refint\CadastrarAlunos.dll
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.pdb
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\CadastrarAlunos.genruntimeconfig.cache
+C:\Users\miste\Desktop\Arq-Reni\projetosParaGitC#\CadastrarAlunos\obj\Debug\net8.0\ref\CadastrarAlunos.dll
