@@ -16,7 +16,3 @@ RegistroDeAlunos.Close();
 
 bool arquivoExistente = File.Exists(CaminhoDoArquivo);
 
-if (arquivoExistente)
-{
-    
-}
